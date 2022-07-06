@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    font-family: 'Slabo 27px', serif !important;
+    min-height: 100vh;
+}
+
+.App {
+    text-align: center;
+}
+
